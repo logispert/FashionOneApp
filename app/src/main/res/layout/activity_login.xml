@@ -66,7 +66,7 @@
                 android:ems="10"
                 android:hint="Password"
                 android:inputType="textPassword"
-                android:text="efocus1356" />
+                android:text="" />
         </LinearLayout>
 
         <LinearLayout
